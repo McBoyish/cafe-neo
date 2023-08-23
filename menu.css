@@ -1,0 +1,44 @@
+body {
+  background-color: #210e08;
+  background-image: url("images/coffee.jpg");
+  background-repeat: repeat;
+}
+
+h1.middle {
+  text-align: center;
+  margin-top: -50px;
+  margin-bottom: -50px;
+}
+
+td.center {
+  text-align: center;
+}
+
+.table{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+table.menutable {
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 125px;
+  margin-bottom: 50px;
+  padding: 50px;
+  border-radius: 50px;
+  border-spacing: 50px;
+  background-color:floralwhite;
+  color: #210e08;
+}
+
+.centre {
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 15px;
+}
+
+th.center {
+  text-align: center;
+}
